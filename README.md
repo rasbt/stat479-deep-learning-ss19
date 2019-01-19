@@ -1,6 +1,6 @@
-# STAT479: Deep Learning Learning (Spring 2019)
+# STAT479: Deep Learning (Spring 2019)
 
-Instructor: Sebastian Raschka
+**Instructor: Sebastian Raschka**
 
 Lecture material for the STAT 479 Deep Learning course at University Wisconsin-Madison. For details, please see the course website at http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/
 
