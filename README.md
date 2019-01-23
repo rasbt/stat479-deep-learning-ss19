@@ -25,7 +25,7 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 
 ## Material
 
-- L01: Introduction to Deep Learning
+- L01: What are Machine Learning and Deep Learning? An Overview. [Slides](L01-intro/L01-intro_slides.pdf)
 - ...
 
 <br>
