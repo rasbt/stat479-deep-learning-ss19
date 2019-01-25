@@ -27,16 +27,5 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 ## Material
 
 - **L01: What are Machine Learning and Deep Learning? An Overview.** [[Slides](L01-intro/L01-intro_slides.pdf)]
+- **L02: A Brief Summary of the History of Neural Networks and Deep Learning.** [[Slides](L02_dl-history/L02_dl-history_slides.pdf)]
 - ...
-
-<br>
-<br>
-<br>
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
-
-<br>
-<br>
-<br>
