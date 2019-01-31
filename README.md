@@ -28,4 +28,4 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 
 - **L01: What are Machine Learning and Deep Learning? An Overview.** [[Slides](L01-intro/L01-intro_slides.pdf)]
 - **L02: A Brief Summary of the History of Neural Networks and Deep Learning.** [[Slides](L02_dl-history/L02_dl-history_slides.pdf)]
-- ...
+- **L03: The Perceptron.** [[Slides](L03_perceptron/L03_perceptron_slides.pdf)] [[Code](L03_perceptron/code)]
