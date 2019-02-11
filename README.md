@@ -30,4 +30,4 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 - **L02: A Brief Summary of the History of Neural Networks and Deep Learning.** [[Slides](L02_dl-history/L02_dl-history_slides.pdf)]
 - **L03: The Perceptron.** [[Slides](L03_perceptron/L03_perceptron_slides.pdf)] [[Code](L03_perceptron/code)]
 - **L04: Linear Algebra for Deep Learning.** [[Slides](L04_linalg-dl/L04_linalg-dl_slides.pdf)]
-- **L05: Fitting Neurons with Gradient Descent.** [[Slides](L05_grad-descent/L05_gradient-descent_slides.pdf)]  [[Code](L05_grad-descent/code)
+- **L05: Fitting Neurons with Gradient Descent.** [[Slides](L05_grad-descent/L05_gradient-descent_slides.pdf)]  [[Code](L05_grad-descent/code)]
