@@ -60,12 +60,14 @@ Update your existing packages via
 
 ### Step 2: Install basic system packages
 
+```bash
 sudo apt-get install -y build-essential \
 g++ gfortran git libfreetype6-dev libxft-dev \
 libncurses-dev libopenblas-dev libblas-dev \
 liblapack-dev libatlas-base-dev \
 linux-headers-generic linux-image-extra-virtual \
 zlib1g-dev libcurl3-dev
+```
 
 ### Step 3: Install NVIDIA drivers (Part 1)
 
