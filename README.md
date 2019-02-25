@@ -33,4 +33,5 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 - **L05: Fitting Neurons with Gradient Descent.** [[Slides](L05_grad-descent/L05_gradient-descent_slides.pdf)]  [[Code](L05_grad-descent/code)]
 - **L06: Automatic Differentiation with PyTorch.** [[Slides](L06_pytorch/L06_pytorch_slides.pdf)]  [[Code](L06_pytorch/code)]
 - **L07: Cloud Computing.** [[Slides](L07_cloud-computing/L07_cloud-computing_slides.pdf)] 
+- **L08: Logistic Regression and Multi-class Classification** [[Slides](L08_logistic/L08_logistic_slides.pdf)] 
 - ...
