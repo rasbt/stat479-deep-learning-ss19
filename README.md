@@ -35,4 +35,5 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 - **L07: Cloud Computing.** [[Slides](L07_cloud-computing/L07_cloud-computing_slides.pdf)] 
 - **L08: Logistic Regression and Multi-class Classification** [[Slides](L08_logistic/L08_logistic_slides.pdf)] [[Code](L08_logistic/code)] 
 - **L09: Multilayer Perceptrons** [[Slides](L09_mlp/L09_mlp_slides.pdf)]  [[Code](L09_mlp/code)] 
+- L10: Regularization** [[Slides](L10_regularization/L10_regularization_slides.pdf)]  [[Code](L10_regularization/code)] 
 - ...
