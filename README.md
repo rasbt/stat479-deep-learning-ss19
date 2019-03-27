@@ -37,4 +37,5 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 - **L09: Multilayer Perceptrons** [[Slides](L09_mlp/L09_mlp_slides.pdf)]  [[Code](L09_mlp/code)] 
 - **L10: Regularization** [[Slides](L10_regularization/L10_regularization_slides.pdf)]  [[Code](L10_regularization/code)] 
 - **L11: Normalization and Weight Initialization** [[Slides](L11_weight-init/L11_weight-init_slides.pdf)] 
+- **L12: Learning Rates and Optimization Algorithms** [[Slides](L12_optim/L12_optim_slides.pdf)] 
 - ...
