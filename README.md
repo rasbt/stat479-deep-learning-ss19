@@ -39,5 +39,6 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 - **L11: Normalization and Weight Initialization** [[Slides](L11_weight-init/L11_weight-init_slides.pdf)] 
 - **L12: Learning Rates and Optimization Algorithms** [[Slides](L12_optim/L12_optim_slides.pdf)] 
 - **L13: Introduction to Convolutional Neural Networks** [[Slides (part 1)](L13_intro-cnn/L13_intro-cnn-part1_slides.pdf)] [[Slides (part 2)](L13_intro-cnn/L13_intro-cnn-part2_slides.pdf)]  [[Slides (part 3)](L13_intro-cnn/L13_intro-cnn-part3_slides.pdf)] 
+- **L14: Introduction to Recurrent Neural Networks** [[Slides (part 1)](L14_intro-rnn/L14_intro-rnn-part1_slides.pdf)] 
 
 - ...
