@@ -42,4 +42,4 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 - **L14: Introduction to Recurrent Neural Networks** [[Slides (part 1)](L14_intro-rnn/L14_intro-rnn-part1_slides.pdf) [Slides (part 2)](L14_intro-rnn/L14_intro-rnn-part2_slides.pdf)] 
 - **L15: Introduction to Autoencoders** [[Slides](L15_autoencoder/L15_autoencoder_slides.pdf)] [[Code](L15_autoencoder/code)]
 - **L16: Variational Autoencoders** (skipped due to timing constraints)
-- **L17: Generative Adversarial Networks**
+- **L17: Generative Adversarial Networks** [[Slides](L17_gans/L17_gans_slides.pdf)] [[Code](L17_gans/code)]
