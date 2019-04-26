@@ -39,7 +39,7 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 - **L11: Normalization and Weight Initialization** [[Slides](L11_weight-init/L11_weight-init_slides.pdf)] 
 - **L12: Learning Rates and Optimization Algorithms** [[Slides](L12_optim/L12_optim_slides.pdf)] 
 - **L13: Introduction to Convolutional Neural Networks** [[Slides (part 1)](L13_intro-cnn/L13_intro-cnn-part1_slides.pdf)] [[Slides (part 2)](L13_intro-cnn/L13_intro-cnn-part2_slides.pdf)]  [[Slides (part 3)](L13_intro-cnn/L13_intro-cnn-part3_slides.pdf)] 
-- **L14: Introduction to Recurrent Neural Networks** [[Slides (part 1)](L14_intro-rnn/L14_intro-rnn-part1_slides.pdf) [Slides (part 2)](L14_intro-rnn/L14_intro-rnn-part2_slides.pdf)] 
+- **L14: Introduction to Recurrent Neural Networks** [[Slides (part 1)](L14_intro-rnn/L14_intro-rnn-part1_slides.pdf) [Slides (part 2)](L14_intro-rnn/L14_intro-rnn-part2_slides.pdf)] [[Code](L14_intro-rnn/code)]
 - **L15: Introduction to Autoencoders** [[Slides](L15_autoencoder/L15_autoencoder_slides.pdf)] [[Code](L15_autoencoder/code)]
 - **L16: Variational Autoencoders** (skipped due to timing constraints)
 - **L17: Generative Adversarial Networks** [[Slides](L17_gans/L17_gan_slides.pdf)] [[Code](L17_gans/code)]
