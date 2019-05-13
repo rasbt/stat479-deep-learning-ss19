@@ -43,3 +43,52 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 - **L15: Introduction to Autoencoders** [[Slides](L15_autoencoder/L15_autoencoder_slides.pdf)] [[Code](L15_autoencoder/code)]
 - **L16: Variational Autoencoders** (skipped due to timing constraints)
 - **L17: Generative Adversarial Networks** [[Slides](L17_gans/L17_gan_slides.pdf)] [[Code](L17_gans/code)]
+
+<br>
+<br>
+
+#### Project Presentation Awards
+
+Without exception, we had amazing project presentations this semester. Nonetheles, we have some winners the top 5 project presentations for each of the 3 categories, 
+as determined by voting among the ~65 students:
+
+
+**Best Oral Presentation:**
+
+1. Saisharan Chimbiki, Grant Dakovich, Nick Vander Heyden (Creating Tweets inspired by Deepak Chopra), average score: 8.417
+
+2. Josh Duchniak, Drew Huang, Jordan Vonderwell (Predicting Blog Authors’ Age and Gender), average score: 7.663
+
+3. Sam Berglin, Jiahui Jiang, Zheming Lian (CNNs for 3D Image Classification), average score: 7.595
+
+4. Christina Gregis, Wengie Wang, Yezhou Li (Music Genre Classification Based on Lyrics), average score: 7.588
+
+5. Ping Yu, Ke Chen, Runfeng Yong (NLP on Amazon Fine Food Reviews) average score: 7.525
+
+
+
+**Most Creative Project:**
+
+1. Saisharan Chimbiki, Grant Dakovich, Nick Vander Heyden (Creating Tweets inspired by Deepak Chopra), average score: 8.313
+
+2. Yien Xu, Boyang Wei, Jiongyi Cao (Judging a Book by its Cover: A Modern Approach), average score: 7.952
+
+3. Xueqian Zhang, Yuhan Meng, Yuchen Zeng (Handwritten Math Symbol Recognization), average score: 7.919 
+
+4. Jinhyung Ahn, Jiawen Chen, Lu Li (Diagnosing Plant Diseases from Images for Improving Agricultural Food Production), average score: 7.917
+
+5. Poet Larsen, Reng Chiz Der, Noah Haselow (Convolutional Neural Networks for Audio Recognition), average score: 7.854
+
+
+
+**Best Visualizations:**
+
+1. Ping Yu, Ke Chen, Runfeng Yong (NLP on Amazon Fine Food Reviews), average score: 8.189
+
+2. Xueqian Zhang, Yuhan Meng, Yuchen Zeng (Handwritten Math Symbol Recognization), average score: 8.153
+
+3. Saisharan Chimbiki, Grant Dakovich, Nick Vander Heyden (Creating Tweets inspired by Deepak Chopra), average score: 7.677
+
+4. Poet Larsen, Reng Chiz Der, Noah Haselow (Convolutional Neural Networks for Audio Recognition), average score: 7.656
+
+5. Yien Xu, Boyang Wei, Jiongyi Cao (Judging a Book by its Cover: A Modern Approach), average score: 7.490
