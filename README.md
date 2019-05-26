@@ -44,6 +44,12 @@ Please see [http://pages.stat.wisc.edu/~sraschka/teaching/stat479-ss2019/#calend
 - **L16: Variational Autoencoders** (skipped due to timing constraints)
 - **L17: Generative Adversarial Networks** [[Slides](L17_gans/L17_gan_slides.pdf)] [[Code](L17_gans/code)]
 
+- [A summary/gallery of some of the awesome student projects students in this class worked on.](https://sebastianraschka.com/blog/2019/student-gallery-1.html)
+
+
+
+
+
 <br>
 <br>
 
